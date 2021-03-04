@@ -15,11 +15,11 @@ var winningScore = 50;
 // add collectable items to the game
 function addItems() {
   items = game.add.physicsGroup();
-  // createItem(465, 510, 'fond');
-  // createItem(535, 510, 'product');
-  // createItem(605, 510, 'tea');
-  // createItem(675, 510, 'wear');
-  // createItem(745, 510, '2021');
+  createItem(465, 510, 'fond');
+  createItem(535, 510, 'product');
+  createItem(605, 510, 'tea');
+  createItem(675, 510, 'wear');
+  createItem(745, 510, '2021');
 
   createItem(520, 435, 'birth');
   createItem(590, 435, 'info');
