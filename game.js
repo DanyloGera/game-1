@@ -148,7 +148,7 @@ window.onload = function () {
 
   // initial game set up
   function create() {
-    // alert("Прочитайте завдання, закрийте його на хрестик і грайте!");
+    alert("Прочитайте завдання, навчіться керувати героєм, закрийте повідомлення на хрестик і грайте!");
     this.add.image(0, 0, 'background');
     player = game.add.sprite(60, 480, 'player');
     player.animations.add('walk');
