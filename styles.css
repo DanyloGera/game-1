@@ -83,6 +83,8 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
 }
 
 .alert {
+  position: absolute;
+  top: 50px;
   padding: 20px;
   background-color: #f44336;
   color: white;
