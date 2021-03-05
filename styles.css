@@ -81,3 +81,8 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
   height: 30px;
   width: 30px;
 }
+
+a {
+
+text-decoration: none;
+}
