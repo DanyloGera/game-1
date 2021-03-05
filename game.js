@@ -150,7 +150,7 @@ window.onload = function () {
   function create() {
     // alert("Прочитайте завдання, закрийте його на хрестик і грайте!");
     this.add.image(0, 0, 'background');
-    player = game.add.sprite(77, 480, 'player');
+    player = game.add.sprite(60, 480, 'player');
     player.animations.add('walk');
     player.anchor.setTo(0.5, 1);
     game.physics.arcade.enable(player);
