@@ -89,7 +89,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
   width: 30%;
   background-color: #eee;
   color: #000;
-  border: 3px dashed yellow;
+  border: 3px dashed #4F7072;
 }
 
 .closebtn {
