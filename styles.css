@@ -93,7 +93,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
 
 .closebtn {
   margin-left: 15px;
-  color: white;
+  color: #555;
   font-weight: bold;
   float: right;
   font-size: 22px;
