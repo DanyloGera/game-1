@@ -38,12 +38,15 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
 
 
 #new{
+  background-image: url(./booklets/new21.png);
+  width: 37;
+  height: 37;
   position: absolute;
   top: 200px;
   transition: background-image 2s ease-in-out;
 }
 #new:hover{
-  background-image: url(./booklets/new21.png);
+  background-image: url(./booklets/2021.png);
 }
 
 
