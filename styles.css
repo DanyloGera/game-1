@@ -41,6 +41,9 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
   position: absolute;
   top: 200px;
 }
+#new:hover{
+  background-image: url(./booklets/new21.png);
+}
 
 
 .container {
