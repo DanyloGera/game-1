@@ -37,8 +37,14 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
 }
 
 .info-wrap {
+  display: flex;
+  flex-direction: row;
   position: absolute;
   top: 200px;
+}
+.column-wrap{
+  display: flex;
+  flex-direction: column;
 }
 .new{
   background-image: url('./booklets/new21.png');
