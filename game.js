@@ -146,9 +146,20 @@ window.onload = function () {
     game.load.spritesheet('star', 'star.png', 32, 32);
   }
 
+  var sec1 = 0;
+  function timer1() {
+     sec1++;
+     var timer = document.querySelector(".timer");
+     var m = (Math.trunc(sec1/60)<10? "0":"") + Math.trunc(sec1/60);
+     var s = (sec1%60<10? "0":"") + sec1%60;
+     timer.value = m + " : " + s;
+}
+setInterval(timer1, 1000);
   // initial game set up
+
   function create() {
     alert("Прочитайте завдання, закрийте повідомлення на хрестик, навчіться керувати героєм і грайте!");
+    timer1();
     this.add.image(0, 0, 'background');
     player = game.add.sprite(60, 480, 'player');
     player.animations.add('walk');
