@@ -241,9 +241,6 @@ p{
   text-align: justify;
 }
 .timer-wrapper {
-  display: flex;
-  align-items: flex-end;
-}
-#timer{
-  align-items: flex-end;
+  position: absolute;
+ top: 80%;
 }
