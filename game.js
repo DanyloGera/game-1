@@ -146,6 +146,8 @@ window.onload = function () {
     game.load.spritesheet('star', 'star.png', 32, 32);
   }
 
+
+//timer
   var sec1 = 0;
   function timer1() {
      sec1++;
@@ -155,8 +157,8 @@ window.onload = function () {
      timer.value = m + " : " + s;
 }
 setInterval(timer1, 1000);
-  // initial game set up
 
+  // initial game set up
   function create() {
     alert("Прочитайте завдання, закрийте повідомлення на хрестик, навчіться керувати героєм і грайте!");
     timer1();
