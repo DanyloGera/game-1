@@ -240,3 +240,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
 p{
   text-align: justify;
 }
+.timer-wrapper {
+  display: flex;
+  align-items: flex-end;
+}
