@@ -232,6 +232,8 @@ image: url('./booklets/ad-alone.png');
 p{
   text-align: justify;
 }
+
+/* time */
 .timer-wrapper {
   position: absolute;
 top: 500px;
