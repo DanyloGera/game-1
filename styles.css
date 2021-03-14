@@ -51,8 +51,8 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
 .new{
   /* background-image: url('./booklets/new21.png'); */
   margin: 10px;
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   transition: image, width, height, 2s ease-in-out;
 }
 .new:hover{
@@ -62,8 +62,8 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
 .fond {
   /* background-image: url('./booklets/fond-info.png'); */
   margin: 10px;
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   transition:image, width, height, 2s ease-in-out;
 }
 .fond:hover{
@@ -73,8 +73,8 @@ image: url('./booklets/ad-fond.png');
 .wear {
     /* background-image: url('./booklets/wear-info.png'); */
     margin: 10px;
-    width: 70px;
-    height: 70px;
+    width: 60px;
+    height: 60px;
     transition: image, width, height, 2s ease-in-out;
 }
 .wear:hover{
@@ -84,8 +84,8 @@ transform: scale(3);
 .tea{
   /* background-image: url('./booklets/tea-info.png'); */
   margin: 10px;
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   transition: image, width, height, 2s ease-in-out;
 }
 .tea:hover{
@@ -95,8 +95,8 @@ transform: scale(3);
 .product{
     /* background-image: url('./booklets/product-info.png'); */
     margin: 10px;
-    width: 70px;
-    height: 70px;
+    width: 60px;
+    height: 60px;
     transition:   image, width, height, 2s ease-in-out;
 }
 .product:hover{
@@ -106,8 +106,8 @@ transform: scale(3);
 .birth {
   /* background-image: url('./booklets/birth-info.png'); */
   margin: 10px;
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   transition:    image, width, height, 2s ease-in-out;
 }
 .birth:hover{
@@ -117,8 +117,8 @@ transform: scale(3);
 .goodproject{
   /* background-image: url('./booklets/goodproject-info.png'); */
   margin: 10px;
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   transition: image, width, height, 2s ease-in-out;
 }
 .goodproject:hover{
@@ -128,8 +128,8 @@ transform: scale(3);
 .news{
   /* background-image: url('./booklets/ad-news.png'); */
   margin: 10px;
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   transition: image, width, height, 2s ease-in-out;
 }
 .news:hover{
@@ -139,8 +139,8 @@ image: url('./booklets/news-info.png');
 .info{
   /* background-image: url('./booklets/info-info.png'); */
   margin: 10px;
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   transition: image, width, height, 2s ease-in-out;
 }
 .info:hover{
@@ -150,8 +150,8 @@ image: url('./booklets/news-info.png');
 .alone{
   /* background-image: url('./booklets/alone-info.png'); */
   margin: 10px;
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   transition: image, width, height, 2s ease-in-out;
 }
 .alone:hover{
