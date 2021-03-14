@@ -235,3 +235,9 @@ p{
   position: absolute;
 top: 500px;
 }
+.timer {
+  background-color: #FEC75E;
+  padding: 20px;
+  border-radius: 30px;
+  border: 1px solid #000;
+}
