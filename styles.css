@@ -42,7 +42,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
   flex-direction: row;
   position: absolute;
   top: 20%;
-  right: 5%;
+  right: 4%;
 }
 .column-wrap{
   display: flex;
@@ -233,5 +233,5 @@ p{
 }
 .timer-wrapper {
   position: absolute;
- top: 80%;
+top: 500px;
 }
