@@ -55,8 +55,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
   transition: image, width, height, 2s ease-in-out;
 }
 .new:hover{
-  width: 200px;
-  height: 200px;
+  transform: scale(3);
   image: url('./booklets/ad2021.png');
 }
 .fond {
@@ -67,8 +66,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
   transition:image, width, height, 2s ease-in-out;
 }
 .fond:hover{
-  width: 200px;
-  height: 200px;
+  transform: scale(3);
 image: url('./booklets/ad-fond.png');
 }
 .wear {
@@ -79,8 +77,7 @@ image: url('./booklets/ad-fond.png');
     transition: image, width, height, 2s ease-in-out;
 }
 .wear:hover{
-  width: 200px;
-  height: 200px;
+transform: scale(3);
   image: url('./booklets/ad-wear.png');
 }
 .tea{
@@ -91,8 +88,7 @@ image: url('./booklets/ad-fond.png');
   transition: image, width, height, 2s ease-in-out;
 }
 .tea:hover{
-  width: 200px;
-  height: 200px;
+  transform: scale(3);
   image: url('./booklets/ad-tea.png');
 }
 .product{
@@ -103,8 +99,7 @@ image: url('./booklets/ad-fond.png');
     transition:   image, width, height, 2s ease-in-out;
 }
 .product:hover{
-  width: 200px;
-  height: 200px;
+transform: scale(3);
    image: url('./booklets/ad-product.png');
 }
 .birth {
@@ -115,8 +110,7 @@ image: url('./booklets/ad-fond.png');
   transition:    image, width, height, 2s ease-in-out;
 }
 .birth:hover{
-  width: 200px;
-  height: 200px;
+  transform: scale(3);
      image: url('./booklets/ad-birth.png');
 }
 .goodproject{
@@ -127,8 +121,7 @@ image: url('./booklets/ad-fond.png');
   transition: image, width, height, 2s ease-in-out;
 }
 .goodproject:hover{
-  width: 200px;
-  height: 200px;
+  transform: scale(3);
   image: url('./booklets/ad-goodproject.png');
 }
 .news{
@@ -139,8 +132,7 @@ image: url('./booklets/ad-fond.png');
   transition: image, width, height, 2s ease-in-out;
 }
 .news:hover{
-  width: 200px;
-  height: 200px;
+  transform: scale(3);
 image: url('./booklets/news-info.png');
 }
 .info{
@@ -151,8 +143,7 @@ image: url('./booklets/news-info.png');
   transition: image, width, height, 2s ease-in-out;
 }
 .info:hover{
-  width: 200px;
-  height: 200px;
+  transform: scale(3);
   image: url('./booklets/ad-info.png');
 }
 .alone{
@@ -163,8 +154,7 @@ image: url('./booklets/news-info.png');
   transition: image, width, height, 2s ease-in-out;
 }
 .alone:hover{
-  width: 200px;
-  height: 200px;
+  transform: scale(3);
 image: url('./booklets/ad-alone.png');
 }
 
