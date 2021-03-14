@@ -50,7 +50,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
 }
 .new{
   /* background-image: url('./booklets/new21.png'); */
-  margin: 10px;
+  margin: 15px;
   width: 60px;
   height: 60px;
   transition: image, width, height, 2s ease-in-out;
@@ -61,7 +61,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
 }
 .fond {
   /* background-image: url('./booklets/fond-info.png'); */
-  margin: 10px;
+  margin: 15px;
   width: 60px;
   height: 60px;
   transition:image, width, height, 2s ease-in-out;
@@ -72,7 +72,7 @@ image: url('./booklets/ad-fond.png');
 }
 .wear {
     /* background-image: url('./booklets/wear-info.png'); */
-    margin: 10px;
+    margin: 15px;
     width: 60px;
     height: 60px;
     transition: image, width, height, 2s ease-in-out;
@@ -83,7 +83,7 @@ transform: scale(3);
 }
 .tea{
   /* background-image: url('./booklets/tea-info.png'); */
-  margin: 10px;
+  margin: 15px;
   width: 60px;
   height: 60px;
   transition: image, width, height, 2s ease-in-out;
@@ -94,7 +94,7 @@ transform: scale(3);
 }
 .product{
     /* background-image: url('./booklets/product-info.png'); */
-    margin: 10px;
+    margin: 15px;
     width: 60px;
     height: 60px;
     transition:   image, width, height, 2s ease-in-out;
@@ -105,7 +105,7 @@ transform: scale(3);
 }
 .birth {
   /* background-image: url('./booklets/birth-info.png'); */
-  margin: 10px;
+  margin: 15px;
   width: 60px;
   height: 60px;
   transition:    image, width, height, 2s ease-in-out;
@@ -116,7 +116,7 @@ transform: scale(3);
 }
 .goodproject{
   /* background-image: url('./booklets/goodproject-info.png'); */
-  margin: 10px;
+  margin: 15px;
   width: 60px;
   height: 60px;
   transition: image, width, height, 2s ease-in-out;
@@ -127,7 +127,7 @@ transform: scale(3);
 }
 .news{
   /* background-image: url('./booklets/ad-news.png'); */
-  margin: 10px;
+  margin: 15px;
   width: 60px;
   height: 60px;
   transition: image, width, height, 2s ease-in-out;
@@ -138,7 +138,7 @@ image: url('./booklets/news-info.png');
 }
 .info{
   /* background-image: url('./booklets/info-info.png'); */
-  margin: 10px;
+  margin: 15px;
   width: 60px;
   height: 60px;
   transition: image, width, height, 2s ease-in-out;
@@ -149,7 +149,7 @@ image: url('./booklets/news-info.png');
 }
 .alone{
   /* background-image: url('./booklets/alone-info.png'); */
-  margin: 10px;
+  margin: 15px;
   width: 60px;
   height: 60px;
   transition: image, width, height, 2s ease-in-out;
