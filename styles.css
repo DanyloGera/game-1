@@ -41,8 +41,8 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
   display: flex;
   flex-direction: row;
   position: absolute;
-  top: 20%;
-  right: 4%;
+  top: 130px;
+right: 50px;
 }
 .column-wrap{
   display: flex;
