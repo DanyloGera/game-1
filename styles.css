@@ -48,124 +48,124 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
   flex-direction: column;
 }
 .new{
-  background-image: url('./booklets/new21.png');
+  /* background-image: url('./booklets/new21.png'); */
   margin: 10px;
   width: 50px;
   height: 50px;
-  transition: background-image, width, height, 2s ease-in-out;
+  transition: image, width, height, 2s ease-in-out;
 }
 .new:hover{
   width: 200px;
   height: 200px;
-  background-image: url('./booklets/ad2021.png');
+  image: url('./booklets/ad2021.png');
 }
 .fond {
-  background-image: url('./booklets/fond-info.png');
+  /* background-image: url('./booklets/fond-info.png'); */
   margin: 10px;
   width: 50px;
   height: 50px;
-  transition: background-image, width, height, 2s ease-in-out;
+  transition:image, width, height, 2s ease-in-out;
 }
 .fond:hover{
   width: 200px;
   height: 200px;
-  background-image: url('./booklets/ad-fond.png');
+image: url('./booklets/ad-fond.png');
 }
 .wear {
-    background-image: url('./booklets/wear-info.png');
+    /* background-image: url('./booklets/wear-info.png'); */
     margin: 10px;
     width: 50px;
     height: 50px;
-    transition: background-image, width, height, 2s ease-in-out;
+    transition: image, width, height, 2s ease-in-out;
 }
 .wear:hover{
   width: 200px;
   height: 200px;
-  background-image: url('./booklets/ad-wear.png');
+  image: url('./booklets/ad-wear.png');
 }
 .tea{
-  background-image: url('./booklets/tea-info.png');
+  /* background-image: url('./booklets/tea-info.png'); */
   margin: 10px;
   width: 50px;
   height: 50px;
-  transition: background-image, width, height, 2s ease-in-out;
+  transition: image, width, height, 2s ease-in-out;
 }
 .tea:hover{
   width: 200px;
   height: 200px;
-  background-image: url('./booklets/ad-tea.png');
+  image: url('./booklets/ad-tea.png');
 }
 .product{
-    background-image: url('./booklets/product-info.png');
+    /* background-image: url('./booklets/product-info.png'); */
     margin: 10px;
     width: 50px;
     height: 50px;
-    transition: background-image, width, height, 2s ease-in-out;
+    transition:   image, width, height, 2s ease-in-out;
 }
 .product:hover{
   width: 200px;
   height: 200px;
-  background-image: url('./booklets/ad-product.png');
+   image: url('./booklets/ad-product.png');
 }
 .birth {
-  background-image: url('./booklets/birth-info.png');
+  /* background-image: url('./booklets/birth-info.png'); */
   margin: 10px;
   width: 50px;
   height: 50px;
-  transition: background-image, width, height, 2s ease-in-out;
+  transition:    image, width, height, 2s ease-in-out;
 }
 .birth:hover{
   width: 200px;
   height: 200px;
-  background-image: url('./booklets/ad-birth.png');
+     image: url('./booklets/ad-birth.png');
 }
 .goodproject{
-  background-image: url('./booklets/goodproject-info.png');
+  /* background-image: url('./booklets/goodproject-info.png'); */
   margin: 10px;
   width: 50px;
   height: 50px;
-  transition: background-image, width, height, 2s ease-in-out;
+  transition: image, width, height, 2s ease-in-out;
 }
 .goodproject:hover{
   width: 200px;
   height: 200px;
-  background-image: url('./booklets/ad-goodproject.png');
+  image: url('./booklets/ad-goodproject.png');
 }
 .news{
-  background-image: url('./booklets/ad-news.png');
+  /* background-image: url('./booklets/ad-news.png'); */
   margin: 10px;
   width: 50px;
   height: 50px;
-  transition: background-image, width, height, 2s ease-in-out;
+  transition: image, width, height, 2s ease-in-out;
 }
 .news:hover{
   width: 200px;
   height: 200px;
-  background-image: url('./booklets/news-info.png');
+image: url('./booklets/news-info.png');
 }
 .info{
-  background-image: url('./booklets/info-info.png');
+  /* background-image: url('./booklets/info-info.png'); */
   margin: 10px;
   width: 50px;
   height: 50px;
-  transition: background-image, width, height, 2s ease-in-out;
+  transition: image, width, height, 2s ease-in-out;
 }
 .info:hover{
   width: 200px;
   height: 200px;
-  background-image: url('./booklets/ad-info.png');
+  image: url('./booklets/ad-info.png');
 }
 .alone{
-  background-image: url('./booklets/alone-info.png');
+  /* background-image: url('./booklets/alone-info.png'); */
   margin: 10px;
   width: 50px;
   height: 50px;
-  transition: background-image, width, height, 2s ease-in-out;
+  transition: image, width, height, 2s ease-in-out;
 }
 .alone:hover{
   width: 200px;
   height: 200px;
-  background-image: url('./booklets/ad-alone.png');
+image: url('./booklets/ad-alone.png');
 }
 
 .container {
