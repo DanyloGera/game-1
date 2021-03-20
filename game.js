@@ -160,7 +160,6 @@ setInterval(timer1, 1000);
 
   // initial game set up
   function create() {
-    alert("Прочитайте завдання, закрийте повідомлення на хрестик, навчіться керувати героєм і грайте!");
     timer1();
     this.add.image(0, 0, 'background');
     player = game.add.sprite(60, 480, 'player');
