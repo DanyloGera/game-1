@@ -27,11 +27,6 @@ function addItems() {
   createItem(730, 435, 'news');
 
   createItem(120, 360, 'alone');
-  // createItem(270, 310, 'dryer');
-  // createItem(340, 310, 'gadget');
-  // createItem(410, 310, 'money');
-  // createItem(480, 310, 'new');
-
 }
 
 // add platforms to the game
@@ -96,7 +91,6 @@ function itemHandler(player, item) {
   }else if (item.key === 'alone') {
      currentScore = currentScore + 5;
      extraPlatform();
-
   }
   if (currentScore >= winningScore) {
       createBadge();
