@@ -13,7 +13,15 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
     display: flex;
     justify-content: flex-end;
     position: absolute;
-    
+
+    right: 70px;
+    width: 15%;
+    height: 78%;
+  }
+  .row1{
+    display: flex;
+    justify-content: flex-start;
+    position: absolute;
     right: 70px;
     width: 15%;
     height: 78%;
@@ -30,7 +38,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
 }
 .btn-back-wrapper {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
 }
 .btn-next-wrapper {
   display: flex;
