@@ -1,37 +1,19 @@
 html {
 background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8, #def9b7, #ebf3b2, #f6edb1, #ffe7b2, #ffe1c1, #ffded3, #fadfe0, #ebe2e5);
  }
-.content{
+.content {
   width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: row;
-justify-content: center;
+  height: 100%
 }
  canvas {
-     position: absolute;
-     width: 59%;
-  height: 78%;
+   width: 59%;
+   height: 78%;
     margin: auto;
     box-shadow: 0 0  20px 10px #4F7072;
     border-radius: 10px;
 
   }
-
-.row1{
-  position: absolute;
-    left: 8px;
- width: 18%;
- height: 78%;
-
-}
-.row2{
-  position: absolute;
-right: 3%;
-  width: 15%;
-  height: 78%;
-}
-  /* .row2{
+  .row2{
     display: flex;
     justify-content: flex-end;
     position: absolute;
@@ -46,7 +28,7 @@ right: 3%;
     position: absolute;
     width: 15%;
     height: 78%;
-  } */
+  }
 .btn-back {
   position: absolute;
   top: 50px;
