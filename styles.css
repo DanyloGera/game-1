@@ -229,7 +229,7 @@ image: url('./booklets/ad-alone.png');
   position: absolute;
   top: 200px;
   padding: 20px;
-  width: 15%;
+  width: 100%;
   background-color: #eee;
   color: #000;
   border: 3px dashed #4F7072;
