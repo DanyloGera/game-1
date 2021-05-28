@@ -144,15 +144,15 @@ window.onload = function () {
 
 
 //timer
-  var sec1 = 0;
-  function timer1() {
-     sec1++;
-     var timer = document.querySelector(".timer");
-     var m = (Math.trunc(sec1/60)<10? "0":"") + Math.trunc(sec1/60);
-     var s = (sec1%60<10? "0":"") + sec1%60;
-     timer.value = m + " : " + s;
-}
-setInterval(timer1, 1000);
+//   var sec1 = 0;
+//   function timer1() {
+//      sec1++;
+//      var timer = document.querySelector(".timer");
+//      var m = (Math.trunc(sec1/60)<10? "0":"") + Math.trunc(sec1/60);
+//      var s = (sec1%60<10? "0":"") + sec1%60;
+//      timer.value = m + " : " + s;
+// }
+// setInterval(timer1, 1000);
 
   // initial game set up
   function create() {
