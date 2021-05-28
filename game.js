@@ -108,7 +108,7 @@ function badgeHandler(player, badge) {
 
 // setup game when the web page loads
 window.onload = function () {
-  game = new Phaser.Game("59%", "78%", Phaser.AUTO, '', { preload: preload, create: create, update: update, render: render });
+  game = new Phaser.Game(800, 600, Phaser.AUTO, '', { preload: preload, create: create, update: update, render: render });
 
   // before the game begins
   function preload() {
@@ -144,15 +144,15 @@ window.onload = function () {
 
 
 //timer
-//   var sec1 = 0;
-//   function timer1() {
-//      sec1++;
-//      var timer = document.querySelector(".timer");
-//      var m = (Math.trunc(sec1/60)<10? "0":"") + Math.trunc(sec1/60);
-//      var s = (sec1%60<10? "0":"") + sec1%60;
-//      timer.value = m + " : " + s;
-// }
-// setInterval(timer1, 1000);
+  var sec1 = 0;
+  function timer1() {
+     sec1++;
+     var timer = document.querySelector(".timer");
+     var m = (Math.trunc(sec1/60)<10? "0":"") + Math.trunc(sec1/60);
+     var s = (sec1%60<10? "0":"") + sec1%60;
+     timer.value = m + " : " + s;
+}
+setInterval(timer1, 1000);
 
   // initial game set up
   function create() {
