@@ -40,7 +40,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
 }
 .btn-next-wrapper {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
 
 }
 .btn-next{
