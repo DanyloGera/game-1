@@ -255,11 +255,21 @@ p{
   position: absolute;
 top: 500px;
 }
+.time-wrapp{
+  display: flex;
+justify-content: center;
+height: 12%;
+width: 100%;
+position: absolute;
+}
 .timer {
-  width: 150px;
   background-color: #FEC75E;
-  padding: 20px;
-  border: 2px solid #000;
-  border-radius: 10px;
-  text-align: center;
+      padding: 20px;
+      border: 2px solid #000;
+      border-radius: 10px;
+      font-family: 'DotGothic16', sans-serif;
+      font-size: 10pt;
+      max-width: 90%;
+      height: 100%;
+      text-align: center;
 }
