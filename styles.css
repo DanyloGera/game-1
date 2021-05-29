@@ -287,7 +287,14 @@ position: absolute;
 
 @media (min-height: 800px) {
 
-.new{
+.new, .fond,.wear,
+.tea,
+.product,
+.birth,
+.goodproject,
+.news,
+.info,
+.alone{
   width: 70px;
   height: 70px;
 }
