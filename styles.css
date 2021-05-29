@@ -78,33 +78,32 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
   flex-direction: column;
 }
 .new{
-  border: 1px solid #000;
-    margin: 10%;
-    width: 30%;
-    height: 30%;
-    transition: image, width, height, 2s ease-in-out;
-}
+   border: 1px solid #000;
+  margin: 15px;
+  width: 60px;
+  height: 60px;
+  transition: image, width, height, 2s ease-in-out;
 }
 .new:hover{
   transform: scale(3);
   image: url('./booklets/ad2021.png');
 }
 .fond {
-  border: 1px solid #000;
-    margin: 10%;
-    width: 30%;
-    height: 30%;
-    transition: image, width, height, 2s ease-in-out;
+ border: 1px solid #000;
+  margin: 15px;
+  width: 60px;
+  height: 60px;
+  transition:image, width, height, 2s ease-in-out;
 }
 .fond:hover{
   transform: scale(3);
 image: url('./booklets/ad-fond.png');
 }
 .wear {
-  border: 1px solid #000;
-    margin: 10%;
-    width: 30%;
-    height: 30%;
+    border: 1px solid #000;
+    margin: 15px;
+    width: 60px;
+    height: 60px;
     transition: image, width, height, 2s ease-in-out;
 }
 .wear:hover{
@@ -113,21 +112,21 @@ transform: scale(3);
 }
 .tea{
   border: 1px solid #000;
-    margin: 10%;
-    width: 30%;
-    height: 30%;
-    transition: image, width, height, 2s ease-in-out;
+  margin: 15px;
+  width: 60px;
+  height: 60px;
+  transition: image, width, height, 2s ease-in-out;
 }
 .tea:hover{
   transform: scale(3);
   image: url('./booklets/ad-tea.png');
 }
 .product{
-  border: 1px solid #000;
-    margin: 10%;
-    width: 30%;
-    height: 30%;
-    transition: image, width, height, 2s ease-in-out;
+    border: 1px solid #000;
+    margin: 15px;
+    width: 60px;
+    height: 60px;
+    transition:   image, width, height, 2s ease-in-out;
 }
 .product:hover{
 transform: scale(3);
@@ -135,10 +134,10 @@ transform: scale(3);
 }
 .birth {
   border: 1px solid #000;
-    margin: 10%;
-    width: 30%;
-    height: 30%;
-    transition: image, width, height, 2s ease-in-out;
+  margin: 15px;
+  width: 60px;
+  height: 60px;
+  transition:    image, width, height, 2s ease-in-out;
 }
 .birth:hover{
   transform: scale(3);
@@ -146,10 +145,10 @@ transform: scale(3);
 }
 .goodproject{
   border: 1px solid #000;
-    margin: 10%;
-    width: 30%;
-    height: 30%;
-    transition: image, width, height, 2s ease-in-out;
+  margin: 15px;
+  width: 60px;
+  height: 60px;
+  transition: image, width, height, 2s ease-in-out;
 }
 .goodproject:hover{
   transform: scale(3);
@@ -157,10 +156,10 @@ transform: scale(3);
 }
 .news{
   border: 1px solid #000;
-    margin: 10%;
-    width: 30%;
-    height: 30%;
-    transition: image, width, height, 2s ease-in-out;
+  margin: 15px;
+  width: 60px;
+  height: 60px;
+  transition: image, width, height, 2s ease-in-out;
 }
 .news:hover{
   transform: scale(3);
@@ -168,10 +167,10 @@ image: url('./booklets/news-info.png');
 }
 .info{
   border: 1px solid #000;
-    margin: 10%;
-    width: 30%;
-    height: 30%;
-    transition: image, width, height, 2s ease-in-out;
+  margin: 15px;
+  width: 60px;
+  height: 60px;
+  transition: image, width, height, 2s ease-in-out;
 }
 .info:hover{
   transform: scale(3);
@@ -179,10 +178,10 @@ image: url('./booklets/news-info.png');
 }
 .alone{
   border: 1px solid #000;
-    margin: 10%;
-    width: 30%;
-    height: 30%;
-    transition: image, width, height, 2s ease-in-out;
+  margin: 15px;
+  width: 60px;
+  height: 60px;
+  transition: image, width, height, 2s ease-in-out;
 }
 .alone:hover{
   transform: scale(3);
