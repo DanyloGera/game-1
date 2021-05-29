@@ -17,8 +17,9 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
   .row2{
     display: flex;
     justify-content: flex-end;
-      height: 80%;
-    width: 15%;
+    position: absolute;
+      height: 95%;
+    width: 20%;
   }
 .btn-back {
   background-color: #FEC75E;
