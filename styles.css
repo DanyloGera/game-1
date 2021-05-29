@@ -223,12 +223,13 @@ image: url('./booklets/ad-alone.png');
 
 .alert {
   position: absolute;
-  top: 200px;
-  padding: 20px;
-  width: 15%;
-  background-color: #eee;
-  color: #000;
-  border: 3px dashed #4F7072;
+    top: 30%;
+      padding: 20px;
+      font-size: 15pt;
+      min-height: 30%;
+      background-color: #eee;
+      color: #000;
+      border: 3px dashed #4F7072;
 }
 
 .closebtn {
