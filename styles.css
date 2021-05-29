@@ -15,7 +15,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
   border: 2px solid #000;
   border-radius: 10px;
   font-family: 'DotGothic16', sans-serif;
-  font-size: 15px;
+  font-size: 10pt;
 }
 .btn-back-wrapper {
   display: flex;
@@ -35,7 +35,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
   /* border: 2px solid #000; */
   border-radius: 10px;
   font-family: 'DotGothic16', sans-serif;
-  font-size: 15px;
+  font-size: 10pt;
 }
 
 /* info advertisement */
