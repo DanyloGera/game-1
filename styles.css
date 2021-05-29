@@ -284,3 +284,11 @@ position: absolute;
       height: 100%;
       text-align: center;
 }
+
+@media (min-height: 800px) {
+
+.new{
+  width: 70px;
+  height: 70px;
+}
+}
