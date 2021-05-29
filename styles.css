@@ -254,7 +254,7 @@ p{
 /* time */
 .timer-wrapper {
   position: absolute;
-top: 500px;
+top: 90%;
 display: flex;
 justify-content: center;
 
