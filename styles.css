@@ -66,10 +66,12 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
 /* info advertisement */
 .info-wrap {
   display: flex;
-  flex-direction: row;
-  position: absolute;
-  top: 115px;
-right: 50px;
+      justify-content: center;
+      flex-direction: row;
+      position: absolute;
+      top: 20%;
+      right: 2%;
+      width: 100%;
 }
 .column-wrap{
   display: flex;
