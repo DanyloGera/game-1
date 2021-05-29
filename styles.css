@@ -76,6 +76,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
 .column-wrap{
   display: flex;
   flex-direction: column;
+  margin: 5%;
 }
 .new{
    border: 1px solid #000;
