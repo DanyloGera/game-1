@@ -27,7 +27,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
       border-radius: 10px;
       font-family: 'DotGothic16', sans-serif;
       font-size: 10pt;
-      width: 90%;
+      max-width: 90%;
       height: 100%;
 }
 .btn-back-wrapper {
