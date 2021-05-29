@@ -36,6 +36,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
   height: 12%;
   width: 100%;
   position: absolute;
+  top: 1%
 }
 .btn-next-wrapper {
   display: flex;
