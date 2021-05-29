@@ -14,12 +14,12 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
     height: 95%;
   width: 20%;
   }
-  .row2-wrap{
+  .row2{
     display: flex;
     justify-content: flex-end;
 
   }
-  .row2{
+  .row2-wrap{
     position: absolute;
       height: 95%;
     width: 20%;
