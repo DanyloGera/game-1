@@ -254,14 +254,13 @@ p{
 .timer-wrapper {
   position: absolute;
 top: 500px;
-}
-.time-wrapp{
-  display: flex;
+display: flex;
 justify-content: center;
 height: 12%;
 width: 100%;
 position: absolute;
 }
+
 .timer {
   background-color: #FEC75E;
       padding: 20px;
