@@ -113,6 +113,7 @@ window.onload = function () {
   // before the game begins
   function preload() {
     game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
+      game.scale.scaleMode = Phaser.ScaleManager.USER_SCALE;
       game.scale.setMinMax(800, 600, 900, 700);
     // game.stage.backgroundColor = '#5db1ad';
     game.load.image('background', 'background.png');
