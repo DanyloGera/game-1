@@ -4,11 +4,8 @@ var config = {
     width: 800,
     height: 600,
     scene: {
-        preload: preload,
-        create: create,
-        update: update
-    }
-};
+preload: preload, create: create, update: update, render: render
+}
 var player;
 var platforms;
 var badges;
