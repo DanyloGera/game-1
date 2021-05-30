@@ -1,5 +1,14 @@
 // define variables
-var game;
+var config = {
+    type: Phaser.AUTO,
+    width: 800,
+    height: 600,
+    scene: {
+        preload: preload,
+        create: create,
+        update: update
+    }
+};
 var player;
 var platforms;
 var badges;
@@ -108,7 +117,7 @@ function badgeHandler(player, badge) {
 
 // setup game when the web page loads
 window.onload = function () {
-  game = new Phaser.Game(60%, 80%, Phaser.AUTO, '', { preload: preload, create: create, update: update, render: render });
+var  game = new Phaser.Game(config);
 
   // before the game begins
   function preload() {
