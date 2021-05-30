@@ -6,10 +6,13 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
     margin: auto;
     box-shadow: 0 0  20px 10px #4F7072;
     border-radius: 10px;
-    width: 60%;
-    height: 80%;
+
     position: absolute;
     left: 21%;
+  }
+  .canvas1{
+    width: 60%;
+    height: 80%;
   }
   .row1{
     display: flex;
