@@ -108,10 +108,13 @@ function badgeHandler(player, badge) {
 
 // setup game when the web page loads
 window.onload = function () {
-  game = new Phaser.Game(auto, auto, Phaser.AUTO, 'game', { preload: preload, create: create, update: update, render: render });
+  game = new Phaser.Game(800, 600, Phaser.AUTO, 'canvas', { preload: preload, create: create, update: update, render: render });
 
   // before the game begins
   function preload() {
+    game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
+ game.scale.pageAlignHorizontally = true;
+ game.scale.pageAlignVertically = true;
     // game.stage.backgroundColor = '#5db1ad';
     game.load.image('background', 'background.png');
 
