@@ -112,7 +112,7 @@ window.onload = function () {
 
   // before the game begins
   function preload() {
-    game.scale.scaleMode = Phaser.ScaleManager.EXACT_FIT;
+    game.scale.scaleMode = Phaser.ScaleManager.USER_SCALE;
  game.scale.pageAlignHorizontally = true;
  game.scale.pageAlignVertically = true;
     // game.stage.backgroundColor = '#5db1ad';
