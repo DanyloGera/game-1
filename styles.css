@@ -2,14 +2,14 @@ html {
 background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8, #def9b7, #ebf3b2, #f6edb1, #ffe7b2, #ffe1c1, #ffded3, #fadfe0, #ebe2e5);
  }
 
- canvas {
+ .canvas {
     margin: auto;
     box-shadow: 0 0  20px 10px #4F7072;
     border-radius: 10px;
     width: 60%;
     height: 80%;
     position: absolute;
-    
+
   }
   .row1{
     display: flex;
