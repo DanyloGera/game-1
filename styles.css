@@ -9,7 +9,7 @@ background-image: linear-gradient(to bottom, #cbf3eb, #c6f6e3, #c8f9d7, #d0fac8,
     width: 60%;
     height: 80%;
     position: absolute;
-    left: 21%;
+    
   }
   .row1{
     display: flex;
