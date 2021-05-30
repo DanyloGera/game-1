@@ -114,8 +114,8 @@ window.onload = function () {
   function preload() {
     game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
     game.scale.setMinMax(700, 500, 900, 700);
- game.scale.pageAlignHorizontally = true;
- game.scale.pageAlignVertically = true;
+ // game.scale.pageAlignHorizontally = true;
+ // game.scale.pageAlignVertically = true;
     // game.stage.backgroundColor = '#5db1ad';
     game.load.image('background', 'background.png');
 
